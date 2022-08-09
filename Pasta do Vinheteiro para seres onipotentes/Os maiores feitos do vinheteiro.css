@@ -1,0 +1,11 @@
+body {
+}
+
+
+p {
+	text-align: left;
+}
+#banner {
+	width: 100%;
+	border: 10px solid #000000;
+}
